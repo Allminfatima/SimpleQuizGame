@@ -20,7 +20,7 @@ To set up and run **SimpleQuizGame**, follow these steps:
 2. **Compile the Code:**
     Make sure you have a C compiler installed (e.g., GCC). Run the following command to compile the source code:
     ```sh
-    gcc -o SimpleQuizGame quiz_game.c
+    gcc -o quiz_game quiz_game.c
 
 3. **Run the Game:**
 Execute the compiled program:
@@ -46,4 +46,12 @@ Contributions are welcome! If you have suggestions, improvements, or bug fixes, 
 ## Contact
 For any inquiries, please contact allminfatima.2709@egmail.com.
 
+## Contact
+
+For any questions or issues, please contact the project maintainer:
+
+- **Name**: Allmin Fatima
+- **Email**: allminfatima.2709@gmail.com
+
+---
 Enjoy the game! 🎉
